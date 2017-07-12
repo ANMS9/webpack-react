@@ -1,0 +1,4 @@
+#All the node libaries 
+**/node_modules
+#All the production files
+**/dist
